@@ -1,0 +1,7 @@
+# nested lists and tuples.
+nested_list = [[1,2,3],[4.5,6]]
+nested_tuple = ((1,2),(3,4))
+mixed = [1,(2,3),[4,5]]
+print(nested_list)
+print(nested_tuple)
+print(mixed)
